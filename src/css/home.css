@@ -56,10 +56,6 @@ body {
   max-width: 100%;
 }
 
-.sidebarPlaylist {
-  overflow: auto;
-}
-
 /*myPlaylist*/
 
 .myPlaylist {
